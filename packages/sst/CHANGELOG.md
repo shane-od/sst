@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.40.4
+
+### Patch Changes
+
+- [#3659](https://github.com/sst/sst/pull/3659) [`e2a019d80`](https://github.com/sst/sst/commit/e2a019d8035bd47ed6ee34731700dbb1b52c9c5c) Thanks [@ZakkProjects](https://github.com/ZakkProjects)! - Runtime: Fix rust local-lambda build step on windows #
+
 ## 2.40.3
 
 ### Patch Changes
